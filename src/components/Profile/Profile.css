@@ -10,7 +10,7 @@
   width: 100%;
 }
 .name {
-  color: green;
+  color: blueviolet;
   font-size: 25px;
   font-weight: 600;
 }
@@ -20,7 +20,7 @@
   font-weight: 600;
 }
 .location {
-  color: blueviolet;
+  color: green;
   font-size: 25px;
   font-weight: 600;
 }
