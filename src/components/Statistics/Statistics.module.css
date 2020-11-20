@@ -1,0 +1,29 @@
+.statistics {
+  margin-top: 50px;
+  width: 352px;
+  border: solid 1px rgb(211, 221, 221);
+  margin-top: 50px;
+}
+.statisticsItem {
+  display: inline-block;
+  width: 70px;
+  border: solid 1px teal;
+  text-align: center;
+}
+.statisticsTitle {
+  font-size: 16p;
+  color: #333333;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+.label {
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+.percentage {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-evenly;
+}

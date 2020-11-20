@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://inopoisk.com/wp-content/uploads/2018/06/photo_pitona_08.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cs9.pikabu.ru/post_img/big/2016/12/20/4/1482212668178042144.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn23.img.ria.ru/images/16826/27/168262705_45:0:316:203_1400x0_80_0_0_6991e2ed38170f1619d22856efecea98.jpg",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://hsto.org/webt/t0/hz/ow/t0hzowchtlkqhwfy1kc19wayi8u.jpeg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://thumbs.dreamstime.com/b/%D0%B2%D0%B0%D0%BB-%D0%B8%D0%B7%D1%83%D0%BC%D1%80%D1%83%D0%B4%D0%B0-corallus-caninus-%D0%B3%D0%BE%D1%80%D0%B6%D0%B5%D1%82%D0%BA%D0%B8-4272005.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
