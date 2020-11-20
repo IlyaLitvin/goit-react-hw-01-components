@@ -7,7 +7,7 @@ const Friends = ({ friends }) => {
   return (
     <ul className={styles.friendList}>
       {friends.map((el) => {
-        return <Friend el={el} />;
+        return <Friend key={el.id} el={el} />;
       })}
     </ul>
   );
